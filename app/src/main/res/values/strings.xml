@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Betting Strategies</string>
+    <string name="show_favorites">Show favorites</string>
+    <string name="back">Back</string>
+</resources>
